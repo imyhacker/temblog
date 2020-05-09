@@ -13,4 +13,4 @@ Adalah sebuah CMS (Content Management System) yang dibuat menggunakan Framework 
 
 ## Features 
 
-In Documentation : 
+In Documentation : http://doc-temblog.000webhostapp.com/
